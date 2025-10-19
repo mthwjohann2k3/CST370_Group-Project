@@ -1,0 +1,3 @@
+Infix: 1.5 * 8 + 4 / 2
+Postfix: 1.5 8 * 4 2 / +
+Result from expression: 14
