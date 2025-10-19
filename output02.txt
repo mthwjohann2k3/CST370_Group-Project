@@ -1,0 +1,3 @@
+Infix: 13 - 10 / 2.5
+Postfix: 13 10 2.5 / -
+Result from expression: 9
